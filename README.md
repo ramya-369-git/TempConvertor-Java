@@ -14,7 +14,7 @@
 - Java Development Kit (JDK) 8 or higher
 - Visual Studio Code (VS Code) or another Java-compatible IDE
 - Java Extension Pack for VS Code (if using VS Code)
-- 
+  
 # Example Usage
 - Enter 25 in the Celsius input field.
 - Click the "Convert" button.
