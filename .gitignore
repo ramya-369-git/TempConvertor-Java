@@ -1,0 +1,16 @@
+# Ignore compiled Java class files
+*.class
+
+# Ignore log files
+*.log
+
+# Ignore IDE files (e.g., IntelliJ IDEA, Eclipse)
+.idea/
+.vscode/
+*.iml
+
+# Ignore OS-specific files (e.g., macOS)
+.DS_Store
+
+# Ignore backup files
+*~
